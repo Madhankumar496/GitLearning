@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-21T17:59:52 IST" name="Default suite" finished-at="2022-01-21T18:00:12 IST" duration-ms="19881">
+    <groups>
+    </groups>
+    <test started-at="2022-01-21T17:59:52 IST" name="Default test" finished-at="2022-01-21T18:00:12 IST" duration-ms="19881">
+      <class name="restassuredtestcases.ExtractValuesFromResponse">
+        <test-method signature="getValidateListResource()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T17:59:52 IST" name="getValidateListResource" finished-at="2022-01-21T17:59:56 IST" duration-ms="4014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValidateListResource -->
+        <test-method signature="getValidateSingleResource()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T17:59:56 IST" name="getValidateSingleResource" finished-at="2022-01-21T17:59:58 IST" duration-ms="1980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValidateSingleResource -->
+        <test-method signature="getValidateSingleResourceUserNotFound()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T17:59:58 IST" name="getValidateSingleResourceUserNotFound" finished-at="2022-01-21T17:59:59 IST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValidateSingleResourceUserNotFound -->
+        <test-method signature="getValidateUserNotFound()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T17:59:59 IST" name="getValidateUserNotFound" finished-at="2022-01-21T18:00:00 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValidateUserNotFound -->
+        <test-method signature="testEndToEnd()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T18:00:00 IST" name="testEndToEnd" finished-at="2022-01-21T18:00:09 IST" duration-ms="8950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEndToEnd -->
+        <test-method signature="testPostRequestRegisterSuccesful()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T18:00:09 IST" name="testPostRequestRegisterSuccesful" finished-at="2022-01-21T18:00:10 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequestRegisterSuccesful -->
+        <test-method signature="testPostRequestRegisterUnsuccessful()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T18:00:10 IST" name="testPostRequestRegisterUnsuccessful" finished-at="2022-01-21T18:00:11 IST" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequestRegisterUnsuccessful -->
+        <test-method signature="testPostloginUnSuccessful()[pri:0, instance:restassuredtestcases.ExtractValuesFromResponse@223aa2f7]" started-at="2022-01-21T18:00:11 IST" name="testPostloginUnSuccessful" finished-at="2022-01-21T18:00:12 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostloginUnSuccessful -->
+      </class> <!-- restassuredtestcases.ExtractValuesFromResponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
